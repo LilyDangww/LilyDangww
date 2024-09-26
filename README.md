@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilyDangww
+- 👋 Hi, I’m @Lily
 - 👀 I’m interested in coding and algorithms
 - 🌱 I’m currently learning management information systems 
 - 💞️ I’m looking to collaborate on ...
